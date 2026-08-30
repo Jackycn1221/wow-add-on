@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: gggmovespeed
+## Notes: 显示当前角色的移动速度（跑步/坐骑/驭龙/飞行/游泳/德鲁伊形态），支持拖拽移动
+## Version: 1.9
+## Author: ggg_cn
+## SavedVariablesAccountWide: gggmovespeedDB
+
+gggmovespeed.lua
